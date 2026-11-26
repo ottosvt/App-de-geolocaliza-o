@@ -4,9 +4,9 @@ Aplicativo mobile em React Native, desenvolvido no Expo Snack, que usa a geoloca
 
 Trabalho prático da disciplina de Desenvolvimento Mobile, com o professor Dionésio.
 
-Aluno: SEU NOME COMPLETO
-Turma: SUA TURMA
-Snack: COLE AQUI O LINK DO SNACK (ex.: https://snack.expo.dev/@usuario/nome-do-app)
+Aluno: Othon Henrique
+Turma: 4p Noite (Uninassau Olinda)
+Snack:https://snack.expo.dev/@othonsav/geolock
 O que o app faz
 Pede permissão de localização e mostra a latitude, a longitude e o endereço atuais.
 Permite salvar o local como um check-in.
